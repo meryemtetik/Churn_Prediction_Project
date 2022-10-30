@@ -20,17 +20,14 @@ NOTE: This project assumes that we already know the basics of coding in Python a
 ### 6. Model Deployement => Mr. Mehmet Aslan (Due Date : 05 November Saturday)
 ## POWERPOINT & LAST CONTROL ==>> 06 November Sunday
 
-<b> Some important GitHub Codes: </b>
-git clone link
-cd FileName dosyanın içine gir 
-git checkout -b new-feature-2  yeni branch acip icine gir
-git branch new-feature-2  eger yeni branch in icinde degilsek oraya gidip değişiklikleri yapiyoruz.
-git add .
-git commit -m "commit"
-git push -u origin new-feature-2 => bunu sadece ilk değişiklikte yapıyoruz. Daha 
-sonrasında tekrar değişiklik yapılırsa sadece git push kullanılır.vs code çalışınca 
-link veriyor. o linke tıklayıp 
-create pull request e tıklıyoruz.sonra merge ediyoruz.
+### Some important GitHub Codes: 
+1. git clone link
+2. cd FileName dosyanın içine gir 
+3. git checkout -b new-feature-2  yeni branch acip icine gir
+4. git branch new-feature-2  eger yeni branch in icinde degilsek oraya gidip değişiklikleri yapiyoruz.
+5. git add .
+6. git commit -m "commit"
+7. git push -u origin new-feature-2 => bunu sadece ilk değişiklikte yapıyoruz. Daha sonrasında tekrar değişiklik yapılırsa sadece git push kullanılır.vs code çalışınca link veriyor. o linke tıklayıp create pull request e tıklıyoruz.sonra merge ediyoruz.
 
 
 `git config --global credential.helper store`
