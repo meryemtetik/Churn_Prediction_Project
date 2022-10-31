@@ -14,13 +14,16 @@ NOTE: This project assumes that we already know the basics of coding in Python a
 
 ### 1. Exploratory Data Analysis => Mr. Ibrahim Deniz (Due Date : 31 October Monday)
 ### 2. Data Visualization => Mr. Hüseyin Yildiz (Due Date : 01 November Tuesday)
-### 3. Data Pre-Processing => Ms. Meryem Tetik (Due Date : 02 November Wednesday)
+### 3. Data Pre-Processing => Mr. Ilhan Polat (Due Date : 02 November Wednesday)
 ### 4. Cluster Analysis => Ms. Meryem Tetik (Due Date : 03 November Thursday)
 ### 5. Model Building => Mr. Mustafa Tolu (Due Date : 04 November Friday)
 ### 6. Model Deployement => Mr. Mehmet Aslan (Due Date : 05 November Saturday)
 ## POWERPOINT & LAST CONTROL ==>> 06 November Sunday
 
 ### Some important GitHub Codes: 
+`First of all we connect our computer to the GitHub with these codes:(we use them just once before the work) `
+`git config --global user.name <username>`
+`git config --global user.email <useremail>`
 1. git clone link
 2. cd FileName dosyanın içine gir 
 3. git checkout -b new-feature-2  yeni branch acip icine gir
