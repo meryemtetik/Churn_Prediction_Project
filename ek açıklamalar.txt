@@ -1,0 +1,2 @@
+ibrahim branch i silindi tekrar ana fork dan 
+git clone edip dosya lokale çekildi.
