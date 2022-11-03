@@ -1,2 +1,8 @@
 ibrahim branch i silindi tekrar ana fork dan 
 git clone edip dosya lokale çekildi.
+git push yapılınca yapılan hata artık alınmıyor.
+her değişiklik yapıldığında yapılan değişiklikler branchler üzerinden yapılabilinir.
+Yeni Bir Branch Oluşturmak
+Git’de iki farklı şekilde branch oluşturabiliriz. Bu yollardan bir tanesi git branch komutunu kullanmak, diğeri ise git checkout -b parametresi vermek. Git branch komutu sadece yeni bir branch oluştururken, git checkout -b “…” komutu yazdığınız isimde branch yoksa onu oluşturur ve bulunduğunuz branch değiştirilir.
+git checkout -b “carpma_islemi” gibi ... 
+ 
